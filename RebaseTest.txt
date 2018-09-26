@@ -52,6 +52,7 @@ Third of A;
 First of B;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> B第一次提交
 =======
 Second of B;
@@ -59,3 +60,6 @@ Second of B;
 =======
 Second of B;
 >>>>>>> B第一次提交
+=======
+Second of B;
+>>>>>>> B第二次提交
