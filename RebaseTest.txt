@@ -1,4 +1,4 @@
-First of master;
+﻿First of master;
 <<<<<<< HEAD
 <<<<<<< HEAD
 First of A;
@@ -10,3 +10,6 @@ First of B;
 First of B;
 Second of B;
 >>>>>>> B第二次提交
+=======
+First of B;
+Second of B;
