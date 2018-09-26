@@ -66,4 +66,8 @@ Second of B;
 >>>>>>> B第二次提交
 =======
 Third of B;
+<<<<<<< HEAD
 >>>>>>> B第三次提交
+=======
+B rebase A second;
+>>>>>>> B 手动
