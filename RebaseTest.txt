@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 First of master;
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -71,3 +72,13 @@ Third of B;
 =======
 B rebase A second;
 >>>>>>> B 手动
+=======
+﻿First of master;
+First of A;
+Second of A;
+Third of A;
+First of B;
+Second of B;
+Third of B;
+B rebase A second;
+>>>>>>> fada8412944f34c7e3d5c46d2ed4f87a38797a3f
