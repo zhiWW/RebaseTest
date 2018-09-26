@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 First of master;
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -38,8 +39,15 @@ Third of B;
 >>>>>>> B第三次提交
 =======
 ﻿First of master;
+=======
+﻿﻿First of master;
+>>>>>>> B第二次提交
 First of A;
 Second of A;
 Third of A;
 First of B;
+<<<<<<< HEAD
 >>>>>>> B第一次提交
+=======
+Second of B;
+>>>>>>> B第二次提交
