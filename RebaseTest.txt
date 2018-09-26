@@ -5,3 +5,4 @@ Third of A;
 First of B;
 Second of B;
 Third of B;
+B rebase A second;
